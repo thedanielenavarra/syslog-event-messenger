@@ -1,0 +1,15 @@
+{
+    "mailsto": [
+        "MAILTO1"
+    ],
+    "mailsubject": "MAILSUBJECT",
+    "mailtext": "MAILTEXT",
+    "maillogin": "MAILLOGIN",
+    "mailpwd": "MAILPWD",
+    "mailfrom": "MAILFROM",
+    "mailserver": "MAILSERVER",
+    "error_strings": [
+        "ERRORSTR1"
+    ]
+
+}

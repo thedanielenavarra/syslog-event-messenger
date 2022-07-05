@@ -1,0 +1,4 @@
+period=$1
+logfilename="journalctl-sshd-"$(date +%Y%m%d%H%M%S)".txt"
+output=$(journalctl --since "$1"| grep sshd > $logfilename)
+python3 pymail.py "$logfilename"
