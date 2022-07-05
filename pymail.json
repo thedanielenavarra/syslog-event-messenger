@@ -1,15 +1,19 @@
 {
     "mailsto": [
-        "MAILTO1"
+        "RECIPIENT_MAIL_ADDRESS_1",
+        "RECIPIENT_MAIL_ADDRESS_2",
+        "RECIPIENT_MAIL_ADDRESS_3"
     ],
-    "mailsubject": "MAILSUBJECT",
-    "mailtext": "MAILTEXT",
-    "maillogin": "MAILLOGIN",
-    "mailpwd": "MAILPWD",
-    "mailfrom": "MAILFROM",
+    "mailsubject": "MAIL_SUBJECT",
+    "mailtext": "MAIL_TEXT",
+    "maillogin": "USERNAME_TO_ACCESS_EMAIL_SERVER",
+    "mailpwd": "PASSWORD_TO_ACCESS_EMAIL_SERVER",
+    "mailfrom": "MAIL_FROM_WHICH_SENDING_FROM",
     "mailserver": "MAILSERVER",
     "error_strings": [
-        "ERRORSTR1"
+        "ERROR_STRING_1",
+        "ERROR_STRING_2",
+        "ERROR_STRING_3"
     ]
 
 }
